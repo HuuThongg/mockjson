@@ -6,6 +6,10 @@
       "bg_smallest": "https://brand.assets.adidas.com/image/upload/f_auto,q_auto,fl_lossy/enUS/Images/xcat-fw22-holiday-october-generic-tcc-background-m_tcm221-947068.jpg"
     }
   ,
+  "header":{
+    "headerInfo": "Ready. SET. GIFT.",
+    "description": "We’ve done the hard part for you and rounded up great gift ideas for everyone on your list—from best sellers to reimagined classics."
+  },
   "content":[
     {
       "id": "1",
